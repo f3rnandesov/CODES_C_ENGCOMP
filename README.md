@@ -38,6 +38,8 @@ Criar uma base sólida para linguagens de baixo nível
 📌 Structs e unions
 
 📌 Manipulação de arquivos (fopen, fscanf, fprintf)
+ 
+ - - - - - -
 
 🛠️ Ferramentas Utilizadas
 
@@ -46,5 +48,3 @@ Criar uma base sólida para linguagens de baixo nível
 🧪 GDB (Debugger)
 
 📝 VS Code / Code::Blocks
-
-🐧 Linux (Parrot OS)
