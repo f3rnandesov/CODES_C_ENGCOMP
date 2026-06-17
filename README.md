@@ -1,19 +1,9 @@
 # CODES_C_ENGCOMP
-📘 Atividades e Estudos em Linguagem C
+Atividades e Estudos em Linguagem C
 
 Este repositório é dedicado aos meus estudos, atividades práticas e exercícios em Linguagem C, com foco em fundamentos da programação, estruturas de dados, algoritmos e aplicações em sistemas.
 
-🎯 Objetivos
-
-Aprender e consolidar os fundamentos da linguagem C
-
-Desenvolver lógica de programação e pensamento algorítmico
-
-Praticar conceitos usados em Sistemas Operacionais, Redes e Cibersegurança
-
-Criar uma base sólida para linguagens de baixo nível
-
-🧠 Conteúdos Estudados
+-> Conteúdos Estudados
 
 📌 Sintaxe básica da linguagem C
 
@@ -40,11 +30,3 @@ Criar uma base sólida para linguagens de baixo nível
 📌 Manipulação de arquivos (fopen, fscanf, fprintf)
  
  - - - - - -
-
-🛠️ Ferramentas Utilizadas
-
-💻 GCC (GNU Compiler Collection)
-
-🧪 GDB (Debugger)
-
-📝 VS Code / Code::Blocks
